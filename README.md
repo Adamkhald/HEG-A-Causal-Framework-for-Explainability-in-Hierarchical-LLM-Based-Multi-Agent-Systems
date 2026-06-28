@@ -3,6 +3,8 @@
 
 **Adam Khald** — Independent Researcher | ad.khald@edu.umi.ac.ma
 
+**Published in Zenodo** — https://doi.org/10.5281/zenodo.21002532 
+
 ---
 
 ## Overview
